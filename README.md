@@ -30,7 +30,7 @@ São necessários os seguintes pré-requisitos para a execução do projeto dese
 
 Projeto desenvolvido na diolive.
 
-Aula por Rodrigo Peleias
+Especialista: Rodrigo Peleias
 
 
 
